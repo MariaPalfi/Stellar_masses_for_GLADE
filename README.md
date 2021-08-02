@@ -15,3 +15,4 @@ We selected two methods from the literature to add this parameter to the new ver
 - *wise_mag_err.ipynb* writes out the error of WISE w1 magnitude.
 - *create_working_catalog.ipynb* prepares the data for the stellar mass estimation.
 - *Stellar_mass_estimation_short_version_2105.ipynb* contains the stellar mass estimation for GLADE+ galaxies.
+- *error_prop_with_correlation.ipynb* estimates the error of stellar mass taking into account the correlation terms in error propagation.

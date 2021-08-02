@@ -14,4 +14,4 @@ We selected two methods from the literature to add this parameter to the new ver
 ## Description of the notebooks in this repository:
 - *wise_mag_err.ipynb* writes out the error of WISE w1 magnitude.
 - *create_working_catalog.ipynb* prepares the data for the stellar mass estimation.
-- *Stellar_mass_estimation_short_version_2103.ipynb* contains the stellar mass estimation for GLADE+ galaxies.
+- *Stellar_mass_estimation_short_version_2105.ipynb* contains the stellar mass estimation for GLADE+ galaxies.
